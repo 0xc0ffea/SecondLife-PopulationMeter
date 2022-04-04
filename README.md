@@ -6,3 +6,7 @@ Rez a prim, add the script, job done.
 Default values for DEPTH and FREQUENCY update every 30 minutes and shows the last 12 hours as a chart.
 
 ![Plywood cube showing the output of the population meter](assets/SecondLIfe%20PopulationMeter%20Screenshot.png)
+
+---
+
+Second Life™ and Linden Lab™ are trademarks or registered trademarks of Linden Research, Inc. No infringement is intended.
