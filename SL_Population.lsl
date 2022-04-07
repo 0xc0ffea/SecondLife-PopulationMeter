@@ -1,3 +1,10 @@
+// Second Life Population Meter
+// Copyright (C) 2022 Coffee Pancake
+// Released under the MIT Licence (http://opensource.org/licenses/MIT)
+
+// Documentation
+// https://github.com/0xc0ffea/SecondLife-PopulationMeter
+
 // *** GLOBALS ***
 
 // for the http, because it's needy like that
