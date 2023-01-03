@@ -70,7 +70,7 @@ integer NEXT_CHECK_UPDATE;
 // SCRIPT VERSION
 string PRODUCT          = "SecondLife-PopulationMeter";
 // store version as an integer (no minor versions, no point releases)
-integer VERSION         = 1;
+integer VERSION         = 2;
 // URL to to check for current version
 string  VERSION_URL     = "https://raw.githubusercontent.com/0xc0ffea/SecondLife-PopulationMeter/main/VERSION";
 // URL to the source repository
